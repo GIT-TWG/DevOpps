@@ -1,0 +1,3 @@
+
+        // In a before delete trigger, the trigger accesses the records that will be
+        // deleted with the Trigger.old list.
